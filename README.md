@@ -1,5 +1,5 @@
 #  💻    Bervex    💻
-[+] Bervex : search for a username across over alot of social media platforms [+]  
+Bervex is an open-source penetration testing tool designed for Informations-gathering. it allows you to search for a username across over alot of social media platforms 
 # Requirements 
 python3, internet 🙂
 # Quick start 
