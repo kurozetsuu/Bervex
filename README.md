@@ -6,6 +6,7 @@ python3, internet :)
 $ python3 Bervex.py
 # Modes 
 [+] Single username mode
+#
 [+] Multi usernames mode
 # Author
 Ayoub Ourass 
