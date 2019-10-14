@@ -1,0 +1,8 @@
+requests
+tkinter
+ttkthemes
+os
+urllib.request
+pillow
+threading 
+time
