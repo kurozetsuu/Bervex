@@ -4,6 +4,10 @@
 Bervex is an open-source penetration testing tool designed for Informations-gathering. it allows you to search for a username across over alot of social media platforms 
 # Requirements 
 python3, internet 🙂
+# Installation
+git clone https://github.com/AyoubOurass/Bervex
+# 
+pip install -r requirements.txt
 # Quick start 
 $ python3 Bervex.py
 # Modes 
