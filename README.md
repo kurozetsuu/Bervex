@@ -29,8 +29,5 @@ Ayoub Ourass 👨🏽‍💻
 ![4](https://user-images.githubusercontent.com/45905472/66837109-63161f00-ef5a-11e9-9f3b-6b097e15a649.jpg)
 ![5](https://user-images.githubusercontent.com/45905472/66837116-64dfe280-ef5a-11e9-847e-0829b951fc37.jpg)
 ![6](https://user-images.githubusercontent.com/45905472/66837126-66a9a600-ef5a-11e9-867e-64b45d784c9a.jpg)
-# Contact 
-https://web.facebook.com/Ay0ub.90
-#
-https://twitter.com/z37_su
+
 
